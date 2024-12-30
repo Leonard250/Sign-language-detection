@@ -1,1 +1,1 @@
-"Sign language detection model" 
+SIGN LANGUAGE DETECTION MODEL
